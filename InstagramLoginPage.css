@@ -1,0 +1,145 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color: white;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.full
+{
+    text-align: center;
+}
+
+/* 1nd box starting */
+
+.box1
+{
+    margin-top: 10px;
+    margin-left: 480px;
+    width: 350px;
+    height: 400px;
+    background: white;
+    border: 0.1px solid black;
+    border-radius: 1px;
+   
+}
+
+.logo img
+{
+    width: 180px;
+    height: 150px;
+}
+
+input
+{
+    border: 0.5px solid black;
+    border-radius: 2px;
+    margin-bottom: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+
+button
+{
+    margin-top: 14px;
+    background: rgb(63, 145, 246);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 95px;
+    padding-right: 95px;
+    border: none;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+p{
+    margin-top: 10px;
+    display: inline-block;
+}
+
+hr
+{
+    display: inline-block;
+    width: 95px;
+    margin-top: 1px;
+    
+}
+
+.facebooklink
+{
+    color: rgb(73, 151, 240);
+    margin-top: 25px;
+    margin-bottom: 20px;
+    
+    
+}
+
+.facebooklink a{
+    text-decoration: none;
+}
+
+.forgetpassword
+{
+    color: rgb(73, 151, 240);
+    margin-top: 10px;
+    
+}
+.forgetpassword a
+{
+    text-decoration: none;
+}
+
+/* 1nd box ending */
+
+
+/* 2nd box stating */
+
+.box2
+{
+    margin-top: 10px;
+    margin-left: 480px;
+    width: 350px;
+    height: 30px;
+    background: white;
+    border: 0.5px solid black;
+    padding-top: 18px;
+    padding-bottom: 10px;
+}
+
+.box21 a
+{
+text-decoration: none;
+color: rgb(63, 145, 246);
+}
+/* 2nd box ending */
+
+h6{
+    margin-top: 15px;
+    font-size: small;
+}
+
+
+
+.img a img
+{
+    margin-top: 10px;
+    display: inline-block;
+    width: 110px;
+    height: 45px;
+}
+

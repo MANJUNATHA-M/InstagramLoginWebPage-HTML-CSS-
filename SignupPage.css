@@ -1,0 +1,155 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.box1 {
+    text-align: center;
+    border: 0.5px solid rgb(121, 119, 119);
+    border-radius: 0px;
+    width: 380px;
+    height: 650px;
+    margin-top: 20px;
+    margin-left: 450px;
+
+}
+
+.logo img
+{
+    margin-top: 10px;
+    width: 160px;
+    height: 90px;
+    margin-bottom: 0px;
+    font-family: cursive;
+  
+
+}
+p{
+    margin-top: 0px;
+    color: rgb(97, 93, 93);
+}
+
+button
+{
+    padding-top: 8px ;
+    padding-bottom:8px ;
+    padding-left: 80px ;
+    padding-right: 80px ;
+    border: none;
+    border-radius: 6px;
+    background: rgb(64, 142, 219);
+    color: white;
+}
+
+.button a{
+    text-decoration: none;
+}
+
+.hr1
+{
+    margin-top:20px;
+    display:inline-block;
+    width: 140px;
+}
+.hr2
+{
+    margin-top:20px;
+    display:inline-block;
+    width: 140px;
+}
+p
+{
+    display:inline-block;
+}
+.put input
+{
+    display: block;
+    margin-left: 50px;
+   padding: 8px 100px 8px 10px;   
+}
+input
+{
+    margin-top: 5px;
+   border: 0.5 solid rgb(59, 57, 57);
+}
+
+.para{
+    margin-top: 15px;
+    color: rgb(86, 84, 84);
+}
+.para a
+{
+    text-decoration: none;
+}
+
+button.sec
+{
+    padding-top: 8px ;
+    padding-bottom:8px ;
+    padding-left: 120px ;
+    padding-right: 120px ;
+    border: none;
+    border-radius: 6px;
+    background: rgb(64, 142, 219);
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box2 {
+    margin-top: 10px;
+    margin-left: 450px;
+    width: 380px;
+    height: 30px;
+    background: white;
+    border: 0.5px solid black;
+    padding-top: 18px;
+    padding-bottom: 10px;
+}
+
+.box21
+{
+    text-align: center;
+}
+
+.box21 a {
+  
+    text-decoration: none;
+    color: rgb(63, 145, 246);
+}
+
+/* 2nd box ending */
+
+h6 {
+    margin-left: 600px;
+    margin-top: 15px;
+    font-size: small;
+}
+
+
+

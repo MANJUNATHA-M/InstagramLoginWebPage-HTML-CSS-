@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mama {
+    background: scroll;
+}
+
+.full {
+    margin-top: 20px;
+    border-bottom: 1px solid rgb(57, 56, 56);
+
+}
+
+.logo img
+{
+    width: 100px;
+    height: 80px;
+    margin-bottom: 0px;
+    margin-left: 200px;
+}
+
+
+div.box {
+    margin-top: 60px;
+    margin-left: 450px;
+    margin-bottom: 30px;
+
+    width: 350px;
+    height: 500px;
+    border: 1px solid rgb(84, 84, 84);
+
+}
+
+.icon {
+    text-align: center;
+}
+
+.icon img {
+    margin-top: 4px;
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 60px;
+
+}
+
+h4 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 100px;
+}
+
+p {
+    font-size: 14px;
+    text-align: center;
+    color: rgba(62, 60, 60, 0.911);
+}
+input
+{
+  margin-left: 40px;
+  padding: 8px 50px 8px 50px;
+  border: 1px solid rgb(59, 58, 58);
+  border-radius: 2px;
+  
+}
+
+button
+{
+    color: rgb(108, 106, 106);
+  margin-left: 40px;
+  padding: 8px 85px 8px 85px;
+ border: none;
+  border-radius: 5px;
+  background: rgb(98, 155, 201);
+ 
+}
+
+.cant
+{
+    margin-top: 10px;
+}
+
+.cant a
+{
+color: rgb(34, 117, 225);
+margin-left: 90px;
+text-decoration: none;
+}
+hr
+{
+    display: inline-block;
+    width: 120px;
+    margin-left: 25px;
+}
+
+.create
+{
+    margin-top: 15px;
+}
+
+.create a
+{
+   
+    text-decoration: none;
+    margin-left: 100px;
+}
+.back
+{
+    margin-left: 40px;
+    margin-top: 70px;
+    
+}
+.back a
+{
+    text-decoration: none;
+    border: 1px solid rgb(46, 45, 45);
+    padding-left:90px;
+    padding-right: 90px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: black;
+    background: rgb(58, 146, 229);
+}
+.back a:hover
+{
+    color: white;
+    background: rgb(27, 133, 232);
+}
